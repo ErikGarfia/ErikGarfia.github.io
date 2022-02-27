@@ -1,0 +1,26 @@
+@import '../App.scss';
+
+.quoteContainer{
+    padding: 10px;
+    .quoteText{
+        font-size: 50px;
+    }
+}
+
+.aboutContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+
+    .aboutText{
+        font-size: 20px;
+        color: $colorBlack;
+        a{
+            text-decoration: none;
+            font-weight: bold;
+            color: $colorBlack;
+        }
+    }
+}
+

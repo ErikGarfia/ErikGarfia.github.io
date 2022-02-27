@@ -1,0 +1,17 @@
+@import '../App.scss';
+
+.container{
+    text-align: center;
+    width: 100%;
+    font-family: $mainFont, serif;
+
+    h1{
+        color: $colorWhite;
+        font-weight: 700;
+    }
+
+    .Typewriter{
+        font-size: 25px;
+        color: $colorWhite;
+    }
+}
