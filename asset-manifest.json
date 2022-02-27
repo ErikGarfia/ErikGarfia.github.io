@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6834d012.css",
+    "main.js": "/static/js/main.eb863f15.js",
+    "static/media/formula12.png": "/static/media/formula12.f08e28e27872523ddaa2.png",
+    "static/media/balonesJacob.png": "/static/media/balonesJacob.9753f6b25c8abf2c66b3.png",
+    "static/media/velocom2.png": "/static/media/velocom2.d36727ef14cf2891bbf0.png",
+    "static/media/bugaet.png": "/static/media/bugaet.8a912182f802aa9c9dd6.png",
+    "static/media/Ohka.png": "/static/media/Ohka.7ddad488e30d574adabd.png",
+    "static/media/sihay.png": "/static/media/sihay.67b60727c7d3c6567a81.png",
+    "static/media/firstPanel.png": "/static/media/firstPanel.bb7e470bfcdbf0135615.png",
+    "static/media/fifth.png": "/static/media/fifth.0357840b99e27a5fa16b.png",
+    "static/media/seventh.png": "/static/media/seventh.e80a45152955e5c757c9.png",
+    "static/media/sixth.png": "/static/media/sixth.1294c1e91a4c909ed844.png",
+    "static/media/ninth.png": "/static/media/ninth.1a121f3b82e6ffeda440.png",
+    "static/media/tenth.png": "/static/media/tenth.9ef98b3ddd8938a89f27.png",
+    "static/media/eight.png": "/static/media/eight.54c1dfbd74017a884c1b.png",
+    "static/media/eleventh.png": "/static/media/eleventh.26cc523710bb30248ad3.png",
+    "static/media/first.png": "/static/media/first.0ca773ab80f123d49d5c.png",
+    "static/media/second.png": "/static/media/second.87aa5a22e19bbbf9e62b.png",
+    "static/media/forth.png": "/static/media/forth.c0dac7f2f3bd03de53d7.png",
+    "static/media/third.png": "/static/media/third.dd2b457e92678b836eb9.png",
+    "index.html": "/index.html",
+    "main.6834d012.css.map": "/static/css/main.6834d012.css.map",
+    "main.eb863f15.js.map": "/static/js/main.eb863f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6834d012.css",
+    "static/js/main.eb863f15.js"
+  ]
+}
