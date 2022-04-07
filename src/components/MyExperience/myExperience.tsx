@@ -4,7 +4,7 @@ const firstPanel = require('../../assets/img/experience/firstPanel.png');
 
 function Experience() {
     return (
-            <div className='uk-padding-large' id="Experience">
+            <div className='uk-padding-large uk-visible@m' id="Experience">
                 <h2 className='uk-text-center uk-text-uppercase'><strong>My Experience</strong></h2>
                 <section id="timeline">
 
