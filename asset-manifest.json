@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6834d012.css",
-    "main.js": "/static/js/main.eb863f15.js",
+    "main.js": "/static/js/main.6a110ae3.js",
     "static/media/formula12.png": "/static/media/formula12.f08e28e27872523ddaa2.png",
     "static/media/balonesJacob.png": "/static/media/balonesJacob.9753f6b25c8abf2c66b3.png",
     "static/media/velocom2.png": "/static/media/velocom2.d36727ef14cf2891bbf0.png",
@@ -22,10 +22,10 @@
     "static/media/third.png": "/static/media/third.dd2b457e92678b836eb9.png",
     "index.html": "/index.html",
     "main.6834d012.css.map": "/static/css/main.6834d012.css.map",
-    "main.eb863f15.js.map": "/static/js/main.eb863f15.js.map"
+    "main.6a110ae3.js.map": "/static/js/main.6a110ae3.js.map"
   },
   "entrypoints": [
     "static/css/main.6834d012.css",
-    "static/js/main.eb863f15.js"
+    "static/js/main.6a110ae3.js"
   ]
 }
